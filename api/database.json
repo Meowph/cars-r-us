@@ -1,0 +1,31 @@
+{
+  "paint": [
+      {"id": 1, "color": "Silver", "price": 75},
+      {"id": 2, "color": "Midnight Blue", "price": 250},
+      {"id": 3, "color": "Firebrick Red", "price": 300},
+      {"id": 4, "color": "Spring Green", "price": 100}
+  ],
+
+  "Interior": [
+    {"id": 1, "material": "Beige Fabric", "price": 100},
+    {"id": 2, "material": "Charcoal Fabric", "price": 125},
+    {"id": 3, "material": "White Leather", "price": 300},
+    {"id": 4, "material": "Black Leather", "price": 350}
+  ],
+
+  "Technology": [
+    {"id": 1, "equipment": "Basic Package (basic sound system)", "price": 200},
+    {"id": 2, "equipment": "Navigation Package (includes integrated navigation controls)", "price": 225},
+    {"id": 3, "equipment": "Visibility Package (includes side and rear cameras)", "price": 375},
+    {"id": 4, "equipment": "Ultra Package (includes navigation and visibility packages)", "price": 500}
+  ],
+
+  "Wheels": [
+    {"id": 1, "size": "17-inch Pair Radial", "price": 115},
+    {"id": 2, "size": "17-inch Pair Radial Black", "price": 175},
+    {"id": 3, "size": "18-inch Pair Spoke Silver", "price": 230},
+    {"id": 4, "size": "18-inch Pair Spoke Black", "price": 265}
+  ],
+
+  "Orders": [ ]
+}
